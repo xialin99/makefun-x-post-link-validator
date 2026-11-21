@@ -1,4 +1,4 @@
-# X Post Link Validator
+# X 帖子链接校验器 / X Post Link Validator
 
 ## 中文
 
